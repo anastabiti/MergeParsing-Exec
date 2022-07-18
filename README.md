@@ -70,4 +70,4 @@
 ### https://chmodcommand.com/chmod-700/
 ### https://people.cs.rutgers.edu/~pxk/416/notes/c-tutorials/getopt.html
 ### https://app.pluralsight.com/course-player?clipId=cf6cbd74-1491-4350-9ea8-b5894b2e8cbd
-
+### Advanced Programming in the Unix Environment Book by W. Richard Stevens
